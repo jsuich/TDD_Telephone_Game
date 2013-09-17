@@ -138,7 +138,3 @@ describe KillerZoo do
 		end
 	end
 end
-# 	KillerZoo
-# Create a few Animal classes. Animals will track their own health and have an #attack method. Each animal will have different attack ratings. How about adding a method that trains the animal to make it more deadly?
-
-# The KillerZoo class should accept animals for a cage fight and determine the winner after calling #attack on each animal and then calculating the remaining health of the opponent. It should be possible to print a log of the attacks from each animal and the damage inflicted.
